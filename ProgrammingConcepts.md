@@ -1,4 +1,1 @@
-//Daehyeon Kim
-//Final Project - Programming Concepts
-//CS099
-//Spring, 2020
+//Daehyeon Kim  //Final Project - Programming Concepts  //CS099  //Spring, 2020
