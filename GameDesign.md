@@ -7,5 +7,5 @@ The Search of Mother
 =============
 Avoid Obstacles Game   
 -------------
-# 1. What is involved with the Googly Eyes?   
+### 1. What is involved with the Googly Eyes?   
 
