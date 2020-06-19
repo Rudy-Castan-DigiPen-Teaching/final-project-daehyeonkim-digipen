@@ -29,3 +29,6 @@ The labyrinth terrain will consist of a tile base. Various distractions will be 
 
 ## Look at this picture
 
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/65066421/85094274-5fdddc00-b229-11ea-89fb-517c41ae5f91.png">
+</div>
