@@ -27,7 +27,7 @@ If you press the Credit button, you can find my name and something else.
 ##### 6. Mechanic   
 The labyrinth terrain will consist of a tile base. Various distractions will be placed with appropriate regularity.
 
-## Look at this picture
+## Picture
 
 <div>
 <img width="300" src="https://user-images.githubusercontent.com/65066421/85094274-5fdddc00-b229-11ea-89fb-517c41ae5f91.png">
