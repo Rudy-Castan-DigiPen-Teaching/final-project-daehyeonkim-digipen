@@ -5,13 +5,13 @@
 The Search of Mother   
 =============
 ### Topics   
-1. Shapes
+1. Shapes   
 Tiles will make with `square`or`rect`.   
 ex) `square(x, y, this.resolution - 1)`   
 Baby dinosaur and his googly eyes and various obstacles will make with `arc`, `ellipse`, `vertex`, `bezierVertex`.   
 ex) `ellipse(a, b, 20, 30)`   
 These are essential to create visual elements.
-1. Colors
+1. Colors   
 Main theme of color will be green. But, I'll express darkness of night via color alpha   
 ex)   
 ```
@@ -23,7 +23,7 @@ color(0,c)
 map(c,400,0,0,220)
 ```
 The color can improve the quality of the game, and in this game, it can also control the difficulty.   
-1. Variables
+1. Variables   
 There is many `const`.   
 First, Phase   
 ex)   
@@ -45,7 +45,7 @@ vay y = 0
 ```
 Second, Find Distance   
 -> same example with color   
-1. Conditional Statements
+1. Conditional Statements   
 This will mainly use for check when dinosaur must died.   
 ```
 if(dinoY <350 && dinoX > 50 || dinoY > 50 && dinoX > 50...)   
@@ -71,7 +71,7 @@ if(stage == 3) {
   pop()   
 }   
 ```
-1. Loops
+1. Loops   
 Mainly use for express terrain - tile based(Grid).   
 ```
 setGrid() {   
@@ -83,7 +83,7 @@ setGrid() {
     }   
   }   
 ```
-1. Functions
+1. Functions   
 Mainly use for read to key is pressed   
 ```
 function keyPressed {   
@@ -92,7 +92,7 @@ a += 0.5
 if(keyCode == 68)   
 a -= 0.5 -->this is for roll Googly eyes   
 ```
-1. Classes
+1. Classes   
 Mainly use for express terrain - tile based.   
 And use for make various obstacles   
 ```
@@ -100,7 +100,7 @@ class grid{
 ...   
 }   
 ```
-1. Arrays
+1. Arrays   
 Mainly use for express terrain - tile based.   
 And use for make random obstacles.   
 ```
