@@ -10,7 +10,7 @@ Tiles will make with `square`or`rect`.
 ex) `square(x, y, this.resolution - 1)`   
 Baby dinosaur and his googly eyes and various obstacles will make with `arc`, `ellipse`, `vertex`, `bezierVertex`.   
 ex) `ellipse(a, b, 20, 30)`   
-These are essential to create visual elements.
+These are essence of create visual elements.
 1. Colors   
 Main theme of color will be green. But, I'll express darkness of night via color alpha   
 ex)   
@@ -45,6 +45,7 @@ vay y = 0
 ```
 Second, Find Distance   
 -> same example with color   
+These make it easy to set cases.   
 1. Conditional Statements   
 This will mainly use for check when dinosaur must died.   
 ```
@@ -70,19 +71,22 @@ if(stage == 3) {
   rect(0,0,width,height)   
   pop()   
 }   
-```
+```   
+By sharing the quarter, you can set the results in detail in a given situation.   
 1. Loops   
 Mainly use for express terrain - tile based(Grid).   
 ```
-setGrid() {   
-    this.grid = this.make2DArray(this.cols, this.rows);   
-    for (let i = 0; i < this.cols; i++) {   
-      for (let j = 0; j < this.rows; j++) {   
-        this.grid[i][j] = floor(random(2))   
-      }   
-    }   
-  }   
-```
+mapCreate(a, b, pattern) {
+    let h = obj[pattern].length
+    let w = obj[pattern][0].length
+    for (let x = 0; x < w + a; x++) {
+      for (let y = 0; y < h + b; y++) {
+        this.grid[(x + this.cols) % this.cols][(y + this.rows) % this.rows] = obj[pattern][y][x]
+      }
+    }
+  }
+```   
+Use to perform a certain action repeatedly. It can prevent hard coding.
 1. Functions   
 Mainly use for read to key is pressed   
 ```
@@ -91,7 +95,8 @@ if(keyCode == 65)
 a += 0.5   
 if(keyCode == 68)   
 a -= 0.5 -->this is for roll Googly eyes   
-```
+```   
+While useful for many situations, p5.js' unique functions can be coded more comfortably if they are used in the right place.
 1. Classes   
 Mainly use for express terrain - tile based.   
 And use for make various obstacles   
@@ -99,7 +104,8 @@ And use for make various obstacles
 class grid{   
 ...   
 }   
-```
+```    
+Various factors that are similar but have large populations can be simply written in `Draw`.   
 1. Arrays   
 Mainly use for express terrain - tile based.   
 And use for make random obstacles.   
@@ -113,3 +119,4 @@ var mapTile[
 ]   
 ]   
 ```
+Non-regular variables can be organized and used at once, and in the case of creating this game, the terrain can be easily expressed.
