@@ -14,12 +14,12 @@ These are essential to create visual elements.
 1. Colors
 Main theme of color will be green. But, I'll express darkness of night via color alpha   
 ex)   
-`let a = dinoX - portalX   
+```let a = dinoX - portalX   
 let b = dinoY - portalY   
 let dis = sqrt(a*a+b*b)   
 let c = 0   
 color(0,c)   
-map(c,400,0,0,220)`   
+map(c,400,0,0,220)```   
 The color can improve the quality of the game, and in this game, it can also control the difficulty.   
 1. Variables
 There is many `const`.   
