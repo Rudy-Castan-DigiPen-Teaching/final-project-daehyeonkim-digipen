@@ -1,6 +1,6 @@
 Pictures   
-BackgroundGIF - Free   
-https://gfycat.com/ko/accomplishedunpleasantfossa   
+Backgroundimage - Main Menu - Free   
+https://pixabay.com/ko/vectors/%EA%B3%B5%EB%A3%A1-%EB%93%9C%EB%9E%98%EA%B3%A4-%EB%94%94%EB%85%B8-%EA%B7%80%EC%97%AC%EC%9A%B4-157823/   
 Backgroundimage - soil - Free   
 https://pixabay.com/ko/photos/%EC%A7%80%EC%83%81-%EC%A7%80%EA%B5%AC-%EB%8F%84%EB%A1%9C-%ED%85%8D%EC%8A%A4%EC%B2%98-2696607/   
 Backgroundimage - sand - Free   
