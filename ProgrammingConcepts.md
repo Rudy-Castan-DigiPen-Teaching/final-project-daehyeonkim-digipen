@@ -146,27 +146,27 @@ These make it easy to set cases.
 4. Conditional Statements   
 This will mainly use for what happen when baby dinosaur move to something 
 ```
-          if(stage <= 4) {
-          if (dino.x >= this.wallPosiX - d && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
-            dino.x = this.wallPosiX - d
-          } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size + d && dino.y <= this.wallPosiY + this.size) {
-            dino.x = this.wallPosiX + this.size + d
-          } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY - d && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
-            dino.y = this.wallPosiY - d
-          } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size + d) {
-            dino.y = this.wallPosiY + this.size + d
-          }
-          } else if (stage == 5) {
-            if (dino.x >= this.wallPosiX - 5*d && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
-            currentScene = YOUDIED
-          } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size + 5*d && dino.y <= this.wallPosiY + this.size) {
-            currentScene = YOUDIED
-          } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY - 5*d && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
-            currentScene = YOUDIED
-          } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size + 5*d) {
-            currentScene = YOUDIED
-          }
-          }
+       if(stage <= 4) {
+       if (dino.x >= this.wallPosiX - d && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
+         dino.x = this.wallPosiX - d
+       } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size + d && dino.y <= this.wallPosiY + this.size) {
+         dino.x = this.wallPosiX + this.size + d
+       } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY - d && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
+         dino.y = this.wallPosiY - d
+       } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size + d) {
+         dino.y = this.wallPosiY + this.size + d
+       }
+       } else if (stage == 5) {
+         if (dino.x >= this.wallPosiX - 5*d && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
+         currentScene = YOUDIED
+       } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size + 5*d && dino.y <= this.wallPosiY + this.size) {
+         currentScene = YOUDIED
+       } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY - 5*d && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size) {
+         currentScene = YOUDIED
+       } else if (dino.x >= this.wallPosiX && dino.y >= this.wallPosiY && dino.x <= this.wallPosiX + this.size && dino.y <= this.wallPosiY + this.size + 5*d) {
+         currentScene = YOUDIED
+       }
+       }
 ```
 And it will use for check button clicked.   
 ```
