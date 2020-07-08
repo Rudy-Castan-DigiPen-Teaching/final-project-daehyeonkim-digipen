@@ -18,7 +18,7 @@ You can't go through the forest, you can step on the thorns and you die. Scary c
 ##### 4. How to clear?
 There is 5 stages. But actually, it is made up of one map. In last stage, You can find the mommy dinosaur. If you contact mommy dinosaur, Congratulation, you have cleared this game.   
 ##### 5. Interface
-In main menu, there is 3 buttons - Start, Setting, How to play, Credit.   
+In main menu, there is 4 buttons - Start, Setting, How to play, Credit.   
    
 If you press the Start button, you can start find mommy dinosaur.   
 If you press the Setting button, you can find slider for manipulate background sound, effect sound, game speed.   
