@@ -11,8 +11,10 @@ Bush2 - Free
 https://www.pngwing.com/ko/free-png-bbpmw/download   
 Wood arrow - Free   
 https://www.cleanpng.com/png-wood-arrow-computer-icons-clip-art-3556965/   
-Dinosaur Image - Free   
+Dinosaur(Did Scene) Image - Free   
 https://kor.pngtree.com/freepng/a-sticker-on-the-wall--a-dinosaur-jumps-out-of-the-wall.-3d-illustration._3730691.html   
+POO - Free
+https://kor.pngtree.com/freepng/orange-vector-animal-poo_2526184.html   
 Blood Image - Free   
 https://kor.pngtree.com/freepng/red-blood-spray_3294909.html   
 Clear Image - Free   
