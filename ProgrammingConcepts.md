@@ -5,7 +5,7 @@
 The Search of Mother   
 =============
 ### Topics   
-1. Shapes    
+##### 1. Shapes    
 thorn is made with `line`
 ```
 push()
@@ -76,7 +76,7 @@ draw_Ptero() {
   }
  ```
 These are essence of create visual elements.
-2. Colors   
+##### 2. Colors   
 Main theme of color will be green. But, I'll express darkness of night via color alpha    
 ```
     ...
@@ -101,7 +101,7 @@ function nightWillCome() {
 }
 ```
 The color can improve the quality of the game, and in this game, it can also control the difficulty.   
-3. Variables   
+##### 3. Variables   
 There is many `const`.   
 Phase    
 ```
@@ -139,7 +139,7 @@ function draw() {
 }
 ```
 These make it easy to set cases.   
-4. Conditional Statements   
+##### 4. Conditional Statements   
 This will mainly use for what happen when baby dinosaur move to something 
 ```
  if(stage <= 4) {
@@ -195,7 +195,7 @@ function nightWillCome() {
 }
 ```   
 By sharing the quarter, you can set the results in detail in a given situation.   
-5. Loops   
+##### 5. Loops   
 Mainly use for express terrain - tile based(Grid).   
 ```
 Create() {
@@ -217,7 +217,7 @@ Create() {
   }
 ```   
 Use to perform a certain action repeatedly. It can prevent hard coding.
-6. Functions   
+##### 6. Functions   
 Mainly use for read to key is pressed   
 ```
 function keyPressed() {
@@ -272,7 +272,7 @@ function keyPressed() {
 }
 ```   
 While useful for many situations, p5.js' unique functions can be coded more comfortably if they are used in the right place.
-7. Classes   
+##### 7. Classes   
 Mainly use for express terrain - tile based.   
 And use for make various obstacles   
 ```
@@ -295,7 +295,7 @@ class babydino extends object {
 }
 ```    
 Various factors that are similar but have large populations can be simply written in `Draw`.   
-8. Arrays   
+##### 8. Arrays   
 Mainly use for express terrain - tile based.   
 And use for make random obstacles.   
 ```
