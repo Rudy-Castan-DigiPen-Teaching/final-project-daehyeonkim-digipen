@@ -3,7 +3,7 @@ BackgroundSound - Free
 https://c-i-k.tistory.com/4   
 Diesound - Free   
 https://hypeddit.com/track/67p4d4   
-BigDinoSound - Maker's permission(Free)   
+BigDinoSound - recorded, Maker's permission(Free)   
 https://cafe.naver.com/war3blood   
 pteroSound - Record Free
 https://tv.kakao.com/channel/3064575/cliplink/385495387   
@@ -27,3 +27,6 @@ Follow Artist : https://soundcloud.com/keysofmoon
 Music promoted by DayDreamSound : https://youtu.be/K9gKbOh4AwY
 
 -------------------------------------Copy End-------------------------------------
+
+button   
+make myself
