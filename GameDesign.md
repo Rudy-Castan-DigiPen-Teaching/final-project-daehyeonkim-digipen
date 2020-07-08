@@ -25,6 +25,9 @@ If you press the How to play button, there is a keyboard manual.
 If you press the Credit button, you can find my name.
 ##### 6. Mechanic   
 The labyrinth terrain will consist of a tile base. Various obstacles will be placed with appropriate regularity.
+##### 7. Googly Eyes   
+All the creatures will roll their eyes to find food.   
+The baby dinosaur will roll his eyes to detect the dangers around them.   
 
 ## Picture
 
