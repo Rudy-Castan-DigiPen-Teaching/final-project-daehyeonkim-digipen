@@ -17,3 +17,7 @@ Blood Image - Free
 https://kor.pngtree.com/freepng/red-blood-spray_3294909.html   
 Clear Image - Free   
 https://mom-schooling.com/64?category=776322   
+   
+   
+Title, HowtoPlay, Credit, Setting, PAUSE, CLEAR, MBD   
+make them myself   
