@@ -7,7 +7,6 @@ The Search of Mother
 ### Topics   
 1. Shapes    
 thorn is made with `line`
-ex)
 ```
 push()
 translate(this.wallPosiX + this.size / 2, this.wallPosiY + this.size / 2)
@@ -25,7 +24,6 @@ for (let a = PI / 8; a <= PI; a += PI / 4) {
 pop()
 ```
 Baby dinosaur and his googly eyes and various obstacles will make with `circle`, `ellipse`, `vertex`, `bezierVertex`.   
-ex)
 ```
 draw_Dino() {
     push()
@@ -79,8 +77,7 @@ draw_Ptero() {
  ```
 These are essence of create visual elements.
 2. Colors   
-Main theme of color will be green. But, I'll express darkness of night via color alpha   
-ex)   
+Main theme of color will be green. But, I'll express darkness of night via color alpha    
 ```
     ...
     push()
@@ -106,8 +103,7 @@ function nightWillCome() {
 The color can improve the quality of the game, and in this game, it can also control the difficulty.   
 3. Variables   
 There is many `const`.   
-Phase   
-ex)   
+Phase    
 ```
 const MAINMENU = 1
 const SETTING = 2
