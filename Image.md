@@ -15,5 +15,5 @@ Dinosaur Image - Free
 https://kor.pngtree.com/freepng/a-sticker-on-the-wall--a-dinosaur-jumps-out-of-the-wall.-3d-illustration._3730691.html   
 Blood Image - Free   
 https://kor.pngtree.com/freepng/red-blood-spray_3294909.html   
-Clear image - Free   
+Clear Image - Free   
 https://mom-schooling.com/64?category=776322   
